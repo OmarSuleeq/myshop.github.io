@@ -1,0 +1,3 @@
+To start the project, you have to first run the "createdb.php" then create the table when you run the "createtb.php" for the client table, and then you have to create the login table 
+when you run "createtblogin.php" then you can run the "conn.php" to make the connection between php and mysql, when you run all the mentioned files, you then have to run "insertele.php" in order to insert the username and password into in the login table located in the database.
+after that you can start the project with the login page "login.php" and start off from there.
